@@ -8,7 +8,7 @@ I'm passionate about understanding how computers work—from hardware and operat
 
 ## 🚀 Projects
 
-* [*] Packet Journey Simulation
+* [X] Packet Journey Simulation
 * [ ] AI-Powered Network Packet Visualizer
 * [ ] Distributed Systems Playground
 * [ ] Deep Learning Experiments
