@@ -8,7 +8,7 @@ I'm passionate about understanding how computers work—from hardware and operat
 
 ## 🚀 Projects
 
-* [ ] Packet Journey Simulation
+* [*] Packet Journey Simulation
 * [ ] AI-Powered Network Packet Visualizer
 * [ ] Distributed Systems Playground
 * [ ] Deep Learning Experiments
@@ -88,5 +88,5 @@ Build open-source tools that help developers visualize and understand how softwa
 
 ## 📫 Connect with Me
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: YOUR_LINKEDIN
+* GitHub: https://github.com/gauti4ru/
+* LinkedIn: https://www.linkedin.com/in/hari-om-gautam-5796a089/
